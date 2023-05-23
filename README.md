@@ -1,5 +1,5 @@
 # SQL Murder Mystery Solution
-
+https://mystery.knightlab.com/
 
 SELECT * FROM crime_scene_report WHERE type == 'murder' AND date == 20180115
               
